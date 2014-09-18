@@ -1,5 +1,6 @@
 var config = {
 	background: {
-			enabled: false
+			enabled: false,
+			LIGHT: {}
 	}
 }
